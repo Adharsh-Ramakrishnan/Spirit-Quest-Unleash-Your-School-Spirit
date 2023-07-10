@@ -16,7 +16,7 @@ To run this project, open the project with Github desktop or download the projec
 For more detailed instructions on running the project, go to the Application Data and Documentation folder and open the Spirit Quest User Documentation.pdf file.  This file contains more detailed instructions on running the project.  
 
 ## Contributors
-Vivaan Rajesh - @vivaan2006
+Vivaan Rajesh - @vivaan2006 <br />
 Adharsh Ramakrishnan - @AdhuBavu2
 
 
