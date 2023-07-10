@@ -8,5 +8,20 @@ Features in the student side include a live announcement system that displays ad
 
 Features in the administrator side include live approval of student points, creation of announcements, creation of new events and rewards, selecting a random winner from each grade and the winner with the most points, a live leaderboard view, a wholistic view of all the students, creation and deletion of students, an administrator report that allows admins to graph student data based on metrics (Ex: events attended by grade), a community chat, and answering personal student questions.  
 
+## Installation Process
+For this project, PyCharm Professional IDE was used for the development of the application. Only Windows and Macintosh were used for this project.  To install PyCharm, follow the instructions on this page for your specific device: https://www.jetbrains.com/pycharm/.  
+
+To run this project, open the project with Github desktop or download the project as a zip file.  Once saved on your local system, open the project with PyCharm Professional IDE.  Install all of the imports and click the "run" button.  
+
+For more detailed instructions on running the project, go to the Application Data and Documentation folder and open the Spirit Quest User Documentation.pdf file.  This file contains more detailed instructions on running the project.  
+
+## Contributors
+Vivaan Rajesh - @vivaan2006
+Adharsh Ramakrishnan - @AdhuBavu2
+
+
+
+
+
 
 
