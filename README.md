@@ -1,5 +1,5 @@
 # Spirit Quest
-This project was created for the 2023 FBLA Coding and Programming Event.  This project placed 6th at the FBLA National Conference in Atlanta. This project was created using the PyQT5 Library and a live SQLite Database system using Python SQLite3.  
+This project was created for the 2023 FBLA Coding and Programming Event.  This project placed 6th at the FBLA National Conference in Atlanta. This project was created using the PyQT5 Library and a live SQLite Database system using Python SQLite3.  For pictures of the application, go to the Application Data and Documentation Folder and open the corresponding documentation.  
 
 ## Application Description
 Spirit Quest is a simple, easy, and user-friendly application that allows for schools to improve their school spirit by tracking, monitoring, and rewarding students for attending school-based events.  This application is split into 2 parts (students and administrators). 
